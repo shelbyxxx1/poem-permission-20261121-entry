@@ -1,0 +1,5 @@
+make.fun submission
+competition: the-poem-about-permission-20261121-0235
+submission_id: 01a1fc5b-a8c3-7132-a3db-c4120c00f86c
+submitted_commit: 9303bee0af5326d3640fee168e1f7411573febda
+owner_stage: scored (0 failed checks)
