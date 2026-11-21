@@ -3,7 +3,7 @@ from pathlib import Path
 
 
 POEM = """Forty years he climbed the tower steps and lit the lamp.
-He never asked before he lit it.
+He never had to ask leave of anyone.
 Tonight the tower is the young keeper’s.
 Hat in hand, he asks, “One last time?”
 She steps out of the light without a word.
